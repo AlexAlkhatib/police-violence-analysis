@@ -1,4 +1,4 @@
-# **Police Violence Analysis — Démographie, Géographie & Facteurs Socio-Économiques**
+# ⚖️ **Police Violence Analysis — Démographie, Géographie & Facteurs Socio-Économiques**
 
 Ce projet analyse les violences policières aux États-Unis à travers une approche statistique, démographique et géographique.
 L’objectif est d’étudier les tendances, les groupes les plus touchés, les disparités régionales et l’impact potentiel des facteurs socio-économiques sur la mortalité civile.
