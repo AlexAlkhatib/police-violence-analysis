@@ -123,9 +123,6 @@ Corrélation entre :
 ✔ Fusion de datasets (merge, join)
 ✔ Calculs de ratios, normalisation par population
 
-Ce projet démontre des capacités attendues pour :
-**Data Analyst**, **Data Scientist Junior**, **BI Analyst**, **Policy Analyst**, **Research Data Analyst**.
-
 
 ## 🔧 **Axes d’amélioration possible**
 
