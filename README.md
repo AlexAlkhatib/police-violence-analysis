@@ -114,14 +114,14 @@ Corrélation entre :
 
 ## 🧠 **Compétences démontrées**
 
-✔ Nettoyage et préparation de données réelles (complexes & multi-sources)
-✔ Analyse statistique & démographique
-✔ Étude de corrélations multi-facteurs
-✔ Data storytelling appliqué à une problématique sociale
-✔ Création de visualisations avancées (heatmaps, cartes, barplots empilés)
-✔ Utilisation d’un notebook structuré et commenté
-✔ Fusion de datasets (merge, join)
-✔ Calculs de ratios, normalisation par population
+- ✔ Nettoyage et préparation de données réelles (complexes & multi-sources)
+- ✔ Analyse statistique & démographique
+- ✔ Étude de corrélations multi-facteurs
+- ✔ Data storytelling appliqué à une problématique sociale
+- ✔ Création de visualisations avancées (heatmaps, cartes, barplots empilés)
+- ✔ Utilisation d’un notebook structuré et commenté
+- ✔ Fusion de datasets (merge, join)
+- ✔ Calculs de ratios, normalisation par population
 
 
 ## 🔧 **Axes d’amélioration possible**
